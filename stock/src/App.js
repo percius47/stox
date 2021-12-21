@@ -127,7 +127,7 @@ else{
  <div className="footer">
           <div className="links">
           <a className="linkedIn" href="https://linkedin.com/in/prashantworks47">LinkedIn</a>
-          <a className="twitter" href="https://twitter.com/percius25">Twitter</a>
+          <a className="twitter" href="https://twitter.com/pareshaaaaan">Twitter</a>
           <a className="twitter" href="https://github.com/percius47">Github</a>
           
            </div>
